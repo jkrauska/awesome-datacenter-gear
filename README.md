@@ -27,6 +27,8 @@ Here's a list of nice things to have available.
 * Scissors
 * Duct tape
 * Notepads and Pens
+* Barcode Scanner (usually USB, acts like a Keyboard)
+* Small parts trays (hold screws/etc)
 
 ## Storage:
 * Stackable Tubs (eg Akro-Mils 30250
